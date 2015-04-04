@@ -1,0 +1,38 @@
+{
+  "name": "js-mgmt",
+  "version": "1.0.0",
+  "description": "Playing with js loaders and dev frameworks",
+  "main": "index.js",
+  "dependencies": {
+    "requirejs": "^2.1.17"
+  },
+  "devDependencies": {
+    "browserify": "^9.0.7",
+    "jspm": "^0.15.1",
+    "requirejs": "^2.1.17",
+    "webpack": "^1.7.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpedroribeiro/js-mgmt"
+  },
+  "keywords": [
+    "js",
+    "loaders",
+    "requirejs",
+    "jspm",
+    "webpack",
+    "browserify",
+    "amd",
+    "commonjs"
+  ],
+  "author": "J. Pedro Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpedroribeiro/js-mgmt/issues"
+  },
+  "homepage": "https://github.com/jpedroribeiro/js-mgmt"
+}
