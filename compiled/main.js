@@ -1,0 +1,1 @@
+define("myModule",[],function(){var e={init:function(){console.log("Hello world!")}};return e}),require(["myModule"],function(e){e.init(),require(["asyncModule"])}),define("main",function(){});

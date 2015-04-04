@@ -1,0 +1,1 @@
+define([],function(){var e={init:function(){console.log("Hello world!")}};return e});
