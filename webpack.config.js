@@ -6,7 +6,7 @@ module.exports = {
     output: {
         path: "compiled_wp",
         filename: "[name].js",
-        chunkFilename: "[name].chunk.[id].js", // TODO chunk name?
+        chunkFilename: "[name].[id].js", // TODO chunk name?
         publicPath: "/compiled_wp/"
     },
     resolve: {
