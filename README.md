@@ -3,6 +3,5 @@ Playing with js loaders and dev frameworks. The purpose of this repo is to study
 
 - Webpack
 - jspm
-- Browserify
 
 
